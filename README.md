@@ -1,5 +1,4 @@
-![MasterHead](/github-header-image.png)
-<h1 align="center">Hello there, I'm Sander</h1>
+<img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/1274d5b3-4ebc-43cd-8cd8-57e91263046f"/>
 <h3 align="center">💻 I am something of a Computer Scientist myself 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haugesander&label=Profile%20views&color=0e75b6&style=flat" alt="haugesander" /> </p>
