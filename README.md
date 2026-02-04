@@ -3,8 +3,8 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=haugesander&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views chip" /> 
-  <img src="https://badgen.net/#static/code%20style/10yr_old/f2a", alt="10yr old coding style chip" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/build-passing_by-orange">
+  <img src="https://badgen.net/static/code%20style/10yr_old/f2a", alt="10yr old coding style chip" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/build-somehow_passing-lightgreen">
 </p>
 
 - I’m currently working on [something top-secret](https://github.com/IMTEL-Master)
